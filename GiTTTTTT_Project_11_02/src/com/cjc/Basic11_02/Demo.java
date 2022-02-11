@@ -18,12 +18,16 @@ public class Demo
 		System.out.println("M5");
 	}
 	
+	
+    
+
 	public void australia()
 	{
 		System.out.println("Melbourne");
 	}
 	
 	public static void main(String[] args) 
+
 
     {
 	System.out.println("Hello world");
