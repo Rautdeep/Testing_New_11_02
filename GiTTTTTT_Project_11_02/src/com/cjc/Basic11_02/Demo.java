@@ -7,6 +7,10 @@ public class Demo
 	{
 		System.out.println("M1");
 	}
+	public void m4()
+	{
+		System.out.println("M4");
+	}
     public static void main(String[] args) 
 
     {
