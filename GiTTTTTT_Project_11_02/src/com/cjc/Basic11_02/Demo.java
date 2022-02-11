@@ -18,7 +18,10 @@ public class Demo
 		System.out.println("M5");
 	}
 	
-	
+	public void m6()
+	{
+		System.out.println("M6");
+	}
     
 
 	public void australia()
