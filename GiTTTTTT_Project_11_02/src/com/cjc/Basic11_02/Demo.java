@@ -11,6 +11,12 @@ public class Demo
 	{
 		System.out.println("M4");
 	}
+	
+	
+	public void m5()
+	{
+		System.out.println("M5");
+	}
     public static void main(String[] args) 
 
     {
